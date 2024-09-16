@@ -1,0 +1,9 @@
+{
+  "url": "https://raw.githubusercontent.com/vishalvishw10/Swagger-XSS/main/xss.yaml",
+  "urls": [
+    {
+      "url": "https://raw.githubusercontent.com/vishalvishw10/Swagger-XSS/main/xss.yaml",
+      "name": "Foo"
+    }
+  ]
+}
